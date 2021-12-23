@@ -6,11 +6,11 @@ Criar um dashboard dos dados de multas e Covid (bases de dados disponibilizadas,
 
 Visão acumulada por período. (multas e Covid)
  </p> -Criado visão acumulada COVID - mortes e casos
-</p>
+</p> - Criado visão acumulada de multas
 Visão comparativa do período anterior. (multas e Covid)
- </p>-Criado visão comparativa com o mesmo período do ano anterior mortes e casos
-</p>
+ </p>-Criado visão comparativa COVID -mortes e casos
+</p> - Criado visão comparativa de multas
 Classificação por ranking do maior para o menor por tipo de multa e estado
-</p>
+</p> -Criado rankig de tipo de multas e estados
 Classificação por ranking do maior para o menor por quantidade de mortes por país,estado e cidade
  </p> -Criado ranking Estados e Cidades
